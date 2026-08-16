@@ -122,4 +122,7 @@ The software relies exclusively on Windows Desktop API pixel capture. It does no
 
 
 
-> 💡 *IT Quote:* "_Code is like humor. When you have to explain it, it’s bad. – Cory House_"
+
+
+<!-- update: A -->
+> 💡 *IT Quote:* "_Fix the cause, not the symptom. – Steve Maguire_"
