@@ -124,5 +124,5 @@ The software relies exclusively on Windows Desktop API pixel capture. It does no
 
 
 
-<!-- update: B -->
-> 💡 *IT Quote:* "_Make it work, make it right, make it fast. – Kent Beck_"
+<!-- update: A -->
+> 💡 *IT Quote:* "_Experience is the name everyone gives to their mistakes. – Oscar Wilde_"
