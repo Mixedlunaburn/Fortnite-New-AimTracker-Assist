@@ -1,6 +1,6 @@
 latarest
 
 
-<!-- update: B -->
+<!-- update: A -->
 
-> 💡 *IT Quote:* "_Talk is cheap. Show me the code. – Linus Torvalds_"
+> 💡 *IT Quote:* "_First, solve the problem. Then, write the code. – John Johnson_"
