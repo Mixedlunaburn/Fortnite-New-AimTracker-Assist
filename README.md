@@ -124,5 +124,5 @@ The software relies exclusively on Windows Desktop API pixel capture. It does no
 
 
 
-<!-- update: A -->
-> 💡 *IT Quote:* "_Programs must be written for people to read, and only incidentally for machines to execute. – Abelson & Sussman_"
+<!-- update: B -->
+> 💡 *IT Quote:* "_Fix the cause, not the symptom. – Steve Maguire_"
