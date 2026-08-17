@@ -1,5 +1,5 @@
 
 
-<!-- update: A -->
+<!-- update: B -->
 
-> 💡 *IT Quote:* "_Simplicity is prerequisite for reliability. – Edsger W. Dijkstra_"
+> 💡 *IT Quote:* "_Talk is cheap. Show me the code. – Linus Torvalds_"
