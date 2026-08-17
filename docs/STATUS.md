@@ -1,5 +1,5 @@
 
 
-<!-- update: A -->
+<!-- update: B -->
 
-> 💡 *IT Quote:* "_Fix the cause, not the symptom. – Steve Maguire_"
+> 💡 *IT Quote:* "_Simplicity is prerequisite for reliability. – Edsger W. Dijkstra_"
