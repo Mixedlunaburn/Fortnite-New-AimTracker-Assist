@@ -1,5 +1,5 @@
 
 
-<!-- update: B -->
+<!-- update: A -->
 
-> 💡 *IT Quote:* "_Fix the cause, not the symptom. – Steve Maguire_"
+> 💡 *IT Quote:* "_Experience is the name everyone gives to their mistakes. – Oscar Wilde_"
