@@ -1,6 +1,6 @@
 latarest
 
 
-<!-- update: B -->
+<!-- update: A -->
 
-> 💡 *IT Quote:* "_Make it work, make it right, make it fast. – Kent Beck_"
+> 💡 *IT Quote:* "_Code is like humor. When you have to explain it, it’s bad. – Cory House_"
