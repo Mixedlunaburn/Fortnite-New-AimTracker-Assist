@@ -1,6 +1,6 @@
 latarest
 
 
-<!-- update: A -->
+<!-- update: B -->
 
-> 💡 *IT Quote:* "_Make it work, make it right, make it fast. – Kent Beck_"
+> 💡 *IT Quote:* "_Simplicity is prerequisite for reliability. – Edsger W. Dijkstra_"
