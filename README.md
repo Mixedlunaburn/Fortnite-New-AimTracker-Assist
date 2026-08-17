@@ -124,5 +124,5 @@ The software relies exclusively on Windows Desktop API pixel capture. It does no
 
 
 
-<!-- update: B -->
-> 💡 *IT Quote:* "_Fix the cause, not the symptom. – Steve Maguire_"
+<!-- update: A -->
+> 💡 *IT Quote:* "_Make it work, make it right, make it fast. – Kent Beck_"
