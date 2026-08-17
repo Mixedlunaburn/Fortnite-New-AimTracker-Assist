@@ -1,6 +1,6 @@
 latarest
 
 
-<!-- update: B -->
+<!-- update: A -->
 
-> 💡 *IT Quote:* "_Code is like humor. When you have to explain it, it’s bad. – Cory House_"
+> 💡 *IT Quote:* "_Talk is cheap. Show me the code. – Linus Torvalds_"
