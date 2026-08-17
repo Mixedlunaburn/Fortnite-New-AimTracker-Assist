@@ -1,5 +1,5 @@
 
 
-<!-- update: A -->
+<!-- update: B -->
 
-> 💡 *IT Quote:* "_Code is like humor. When you have to explain it, it’s bad. – Cory House_"
+> 💡 *IT Quote:* "_Make it work, make it right, make it fast. – Kent Beck_"
