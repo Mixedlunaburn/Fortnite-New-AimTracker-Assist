@@ -1,6 +1,6 @@
 latarest
 
 
-<!-- update: B -->
+<!-- update: A -->
 
-> 💡 *IT Quote:* "_Fix the cause, not the symptom. – Steve Maguire_"
+> 💡 *IT Quote:* "_Talk is cheap. Show me the code. – Linus Torvalds_"
