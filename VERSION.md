@@ -1,6 +1,6 @@
 latarest
 
 
-<!-- update: B -->
+<!-- update: A -->
 
-> 💡 *IT Quote:* "_Experience is the name everyone gives to their mistakes. – Oscar Wilde_"
+> 💡 *IT Quote:* "_Fix the cause, not the symptom. – Steve Maguire_"
