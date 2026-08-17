@@ -124,5 +124,5 @@ The software relies exclusively on Windows Desktop API pixel capture. It does no
 
 
 
-<!-- update: B -->
-> 💡 *IT Quote:* "_Simplicity is prerequisite for reliability. – Edsger W. Dijkstra_"
+<!-- update: A -->
+> 💡 *IT Quote:* "_Talk is cheap. Show me the code. – Linus Torvalds_"
