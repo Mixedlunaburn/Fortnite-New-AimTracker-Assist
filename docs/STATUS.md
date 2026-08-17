@@ -1,5 +1,5 @@
 
 
-<!-- update: B -->
+<!-- update: A -->
 
-> 💡 *IT Quote:* "_First, solve the problem. Then, write the code. – John Johnson_"
+> 💡 *IT Quote:* "_Programs must be written for people to read, and only incidentally for machines to execute. – Abelson & Sussman_"
