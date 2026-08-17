@@ -1,5 +1,5 @@
 
 
-<!-- update: A -->
+<!-- update: B -->
 
-> 💡 *IT Quote:* "_First, solve the problem. Then, write the code. – John Johnson_"
+> 💡 *IT Quote:* "_Simplicity is prerequisite for reliability. – Edsger W. Dijkstra_"
