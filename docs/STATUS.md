@@ -1,5 +1,5 @@
 
 
-<!-- update: A -->
+<!-- update: B -->
 
-> 💡 *IT Quote:* "_First, solve the problem. Then, write the code. – John Johnson_"
+> 💡 *IT Quote:* "_Code is like humor. When you have to explain it, it’s bad. – Cory House_"
