@@ -1,5 +1,5 @@
 
 
-<!-- update: A -->
+<!-- update: B -->
 
-> 💡 *IT Quote:* "_Talk is cheap. Show me the code. – Linus Torvalds_"
+> 💡 *IT Quote:* "_Make it work, make it right, make it fast. – Kent Beck_"
